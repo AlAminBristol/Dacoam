@@ -34,13 +34,12 @@ Phase 4: Data Visualization: (Planned) Building a dashboard to visualize reading
 
 Prerequisites
 
-[All dependies for Tauri 2.0] (https://tauri.app/start/prerequisites/)
+[All dependies for Tauri 2.0](https://tauri.app/start/prerequisites/)
 
 Developer Install
 
 1. Clone the repo
 `git clone git@github.com:AlAminBristol/Dacoam.git`
-`cd Dacoam`
 
 2. Install dependencies
 `npm install`
