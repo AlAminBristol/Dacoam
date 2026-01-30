@@ -1,0 +1,28 @@
+# --- Security & Databases ---
+.env
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Node.js / Frontend ---
+node_modules/
+dist/
+build/
+.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Rust / Tauri ---
+src-tauri/target/
+src-tauri/gen/
+
+# --- System & IDE ---
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

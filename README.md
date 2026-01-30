@@ -32,6 +32,24 @@ Phase 4: Data Visualization: (Planned) Building a dashboard to visualize reading
 
 # Setup and Installation
 
+Prerequisites
+
+[All dependies for Tauri 2.0] (https://tauri.app/start/prerequisites/)
+
+Developer Install
+
+1. Clone the repo
+`git clone git@github.com:AlAminBristol/Dacoam.git`
+`cd Dacoam`
+
+2. Install dependencies
+`npm install`
+
+3. Run in develoment mode
+`npm run tauri dev`
+
+[If npm cant be run on system](https://dev.to/jackfd120/resolving-npm-execution-policy-error-in-powershell-a-step-by-step-guide-for-developers-32ip)
+
 # Reflections and Journal
 
 # License
