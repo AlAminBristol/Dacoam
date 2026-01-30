@@ -50,5 +50,6 @@ Developer Install
 [If npm cant be run on system](https://dev.to/jackfd120/resolving-npm-execution-policy-error-in-powershell-a-step-by-step-guide-for-developers-32ip)
 
 # Reflections and Journal
-
+For full technical journal, see `Journal`.
 # License
+Distributed under the MIT License. See `LICENSE` for more information.
